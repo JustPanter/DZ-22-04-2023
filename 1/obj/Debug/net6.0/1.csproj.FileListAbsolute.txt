@@ -1,0 +1,15 @@
+D:\Обучение\DZ-22-04-2023\1\bin\Debug\net6.0\1.exe
+D:\Обучение\DZ-22-04-2023\1\bin\Debug\net6.0\1.deps.json
+D:\Обучение\DZ-22-04-2023\1\bin\Debug\net6.0\1.runtimeconfig.json
+D:\Обучение\DZ-22-04-2023\1\bin\Debug\net6.0\1.dll
+D:\Обучение\DZ-22-04-2023\1\bin\Debug\net6.0\1.pdb
+D:\Обучение\DZ-22-04-2023\1\obj\Debug\net6.0\1.csproj.AssemblyReference.cache
+D:\Обучение\DZ-22-04-2023\1\obj\Debug\net6.0\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\DZ-22-04-2023\1\obj\Debug\net6.0\1.AssemblyInfoInputs.cache
+D:\Обучение\DZ-22-04-2023\1\obj\Debug\net6.0\1.AssemblyInfo.cs
+D:\Обучение\DZ-22-04-2023\1\obj\Debug\net6.0\1.csproj.CoreCompileInputs.cache
+D:\Обучение\DZ-22-04-2023\1\obj\Debug\net6.0\1.dll
+D:\Обучение\DZ-22-04-2023\1\obj\Debug\net6.0\refint\1.dll
+D:\Обучение\DZ-22-04-2023\1\obj\Debug\net6.0\1.pdb
+D:\Обучение\DZ-22-04-2023\1\obj\Debug\net6.0\1.genruntimeconfig.cache
+D:\Обучение\DZ-22-04-2023\1\obj\Debug\net6.0\ref\1.dll
